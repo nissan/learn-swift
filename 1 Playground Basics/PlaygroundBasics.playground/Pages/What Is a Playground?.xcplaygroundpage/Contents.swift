@@ -12,6 +12,7 @@
 2
 -94
 8+8
+7*7
 
 /*:
 Notice how the numbers also show up in the gray area to the right? 👉
